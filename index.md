@@ -1,0 +1,111 @@
+---
+layout: default
+title: Početna
+description: Jelena Mićić — najbolja kadetkinja Medicinskog fakulteta VMA generacije 2026.
+---
+
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <div class="eyebrow">Medicinski fakultet VMA · 12. klasa</div>
+      <h1>Jelena Mićić</h1>
+      <p class="lead">Najbolja kadetkinja Medicinskog fakulteta Vojnomedicinske akademije u generaciji 2026. Dobitnica nagrade „Profesor Stevan Šefer“, priznanja za najbolji završni rad i oficirske sablje sa posvetom.</p>
+      <div class="chips">
+        <span class="chip">najbolja kadetkinja MF VMA</span>
+        <span class="chip">„Profesor Stevan Šefer“</span>
+        <span class="chip">potporučnica</span>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <a href="https://www.kurir.rs/vesti/drustvo/10056865/kako-kadeti-vojne-akademije-spremaju-za-promociju-oficira" target="_blank" rel="noopener">
+        <img src="https://static.kurir.rs/api/v3/images/468/936/2611733?ts=2026-07-23T14%3A51%3A41" alt="Jelena Mićić u uniformi">
+      </a>
+      <div class="hero-credit">Foto: Petar Aleksić / Kurir · 23. jul 2026.</div>
+    </div>
+  </div>
+</section>
+
+<section id="uspeh">
+  <div class="wrap content-grid">
+    <div>
+      <div class="eyebrow gold">Uspeh generacije</div>
+      <h2>Od priznanja do prvog oficirskog čina</h2>
+      <p class="section-text">Jelena Mićić završila je školovanje u 12. klasi Medicinskog fakulteta VMA kao najbolja kadetkinja svoje generacije. Na svečanosti 23. jula 2026. dobila je nagradu za najbolji završni rad na Medicinskom fakultetu VMA i nagradu „Profesor Stevan Šefer“.</p>
+      <p class="section-text">Dva dana kasnije, 25. jula 2026, na promociji najmlađih oficira Vojske Srbije u kasarni „General Jovan Mišković“ na Banjici, promovisana je u čin potporučnice i uručena joj je oficirska sablja sa posvetom.</p>
+    </div>
+    <aside class="card">
+      <div class="big-stat">28</div>
+      <p><strong>kadeta 12. klase MF VMA</strong> bilo je među 130 kadeta promovisanih u prve oficirske činove 25. jula 2026.</p>
+      <hr>
+      <p class="muted">Stranica koristi javno dostupne informacije iz zvaničnih i medijskih izvora.</p>
+    </aside>
+  </div>
+</section>
+
+<section id="hronologija" class="alt">
+  <div class="wrap">
+    <div class="eyebrow gold">Hronologija</div>
+    <h2>Jul 2026.</h2>
+    <div class="timeline">
+      <div class="event"><div class="date">23. jul</div><div><h3>Diplome i priznanja</h3><div>Nagrađena za najbolji završni rad na Medicinskom fakultetu VMA i nagradom „Profesor Stevan Šefer“.</div></div></div>
+      <div class="event"><div class="date">25. jul</div><div><h3>Promocija u oficirski čin</h3><div>Promovisana u čin potporučnice kao najbolja kadetkinja Medicinskog fakulteta VMA.</div></div></div>
+      <div class="event"><div class="date">25. jul</div><div><h3>Oficirska sablja sa posvetom</h3><div>Uručena oficirska sablja sa posvetom kao najboljoj kadetkinji MF VMA.</div></div></div>
+    </div>
+  </div>
+</section>
+
+<section id="galerija">
+  <div class="wrap">
+    <div class="eyebrow gold">Foto-galerija</div>
+    <h2>Galerija fotografija</h2>
+    <p class="section-text">Klik na bilo koju fotografiju otvara pregled preko cele strane. Strelicama ili tasterima ← i → možeš da listaš fotografije.</p>
+    <div class="gallery-controls">
+      <button class="gallery-btn active" data-filter="all">Sve</button>
+      <button class="gallery-btn" data-filter="jelena">Jelena</button>
+      <button class="gallery-btn" data-filter="ceremony">Svečanost</button>
+      <button class="gallery-btn" data-filter="preparation">Pripreme</button>
+    </div>
+    <div class="gallery-grid" id="gallery">
+      <div class="gallery-item wide" data-category="jelena ceremony" data-full="https://static.kurir.rs/api/v3/images/468/936/2611733?ts=2026-07-23T14%3A51%3A41" data-title="Jelena Mićić pred promociju" data-meta="Petar Aleksić / Kurir · 23.07.2026.">
+        <img src="https://static.kurir.rs/api/v3/images/468/936/2611733?ts=2026-07-23T14%3A51%3A41" alt="Jelena Mićić pred promociju"><div class="gallery-overlay">Jelena Mićić pred promociju<small>Petar Aleksić / Kurir · 23.07.2026.</small></div>
+      </div>
+      <div class="gallery-item tall" data-category="ceremony" data-full="https://www.tanjug.rs/data/images/2026-07-25/408131_oficiri-promocija-vucic_iff.jpg?timestamp=1784971270" data-title="Promocija najmlađih oficira" data-meta="Tanjug · 25.07.2026.">
+        <img src="https://www.tanjug.rs/data/images/2026-07-25/408131_oficiri-promocija-vucic_iff.jpg?timestamp=1784971270" alt="Promocija najmlađih oficira"><div class="gallery-overlay">Promocija najmlađih oficira<small>Tanjug · 25.07.2026.</small></div>
+      </div>
+      <div class="gallery-item" data-category="preparation" data-full="https://static.kurir.rs/api/v3/images/688/1376/2611719?ts=2026-07-23T11%3A08%3A46" data-title="Završne pripreme kadeta" data-meta="Petar Aleksić / Kurir">
+        <img src="https://static.kurir.rs/api/v3/images/688/1376/2611719?ts=2026-07-23T11%3A08%3A46" alt="Završne pripreme kadeta"><div class="gallery-overlay">Završne pripreme kadeta<small>Petar Aleksić / Kurir</small></div>
+      </div>
+      <div class="gallery-item" data-category="preparation" data-full="https://static.kurir.rs/api/v3/images/226/452/2611720?ts=2026-07-23T11%3A08%3A48" data-title="Kadeti na generalnoj probi" data-meta="Jul 2026.">
+        <img src="https://static.kurir.rs/api/v3/images/226/452/2611720?ts=2026-07-23T11%3A08%3A48" alt="Kadeti na generalnoj probi"><div class="gallery-overlay">Kadeti na generalnoj probi<small>Jul 2026.</small></div>
+      </div>
+      <div class="gallery-item" data-category="ceremony" data-full="https://www.tanjug.rs/data/images/2026-07-25/408129_screenshot-2026-07-25-104100_f.png" data-title="Svečanost generacije 2026" data-meta="Javni medijski izvor">
+        <img src="https://www.tanjug.rs/data/images/2026-07-25/408129_screenshot-2026-07-25-104100_f.png" alt="Svečanost generacije 2026"><div class="gallery-overlay">Svečanost generacije 2026<small>25.07.2026.</small></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="video" class="alt">
+  <div class="wrap">
+    <div class="eyebrow gold">Video</div>
+    <h2>Video-sadržaj</h2>
+    <div class="video-grid">
+      <a class="video-card" href="https://www.mod.gov.rs/lat/23482/urucene-diplome-i-nagrade-kadetima-vojne-akademije-i-medicinskog-fakulteta-vma" target="_blank" rel="noopener"><div class="eyebrow">Ministarstvo odbrane · 23.07.2026.</div><div><h3>Dodela diploma i nagrada</h3><p>Zvanična foto i video-galerija sa svečanosti na kojoj je Jelena Mićić nagrađena.</p></div></a>
+      <a class="video-card" href="https://www.rts.rs/lat/tv/rts1/6005125/svecanost-povodom-zavrsetka-skolovanja-kadeta-vojne-akademije-i-medicinskog-fakulteta-vojnomedicinske-akademije-prenos-iz-kasarne-general-jovan-miskovic-na-banjici-.html" target="_blank" rel="noopener"><div class="eyebrow">RTS 1 · 25.07.2026.</div><div><h3>Promocija najmlađih oficira</h3><p>Stranica prenosa svečanosti promocije na Banjici.</p></div></a>
+    </div>
+  </div>
+</section>
+
+<section id="mediji">
+  <div class="wrap">
+    <div class="eyebrow gold">Mediji</div>
+    <h2>Jelena Mićić u medijima</h2>
+    <div class="media-grid">
+      <a class="media-card" href="https://www.kurir.rs/vesti/drustvo/10056865/kako-kadeti-vojne-akademije-spremaju-za-promociju-oficira" target="_blank" rel="noopener"><div class="media-meta"><span>Kurir</span><span>23.07.2026.</span></div><h3>Najbolja u generaciji Medicinskog fakulteta VMA</h3><p>Tekst sa kraćim intervjuom i portretnom fotografijom.</p><div class="media-link">Otvori tekst →</div></a>
+      <a class="media-card" href="https://www.rts.rs/lat/vesti/drustvo/6005626/vojska-srbije-banjica-kadeti-gostovanje-beogradska-hronika.html" target="_blank" rel="noopener"><div class="media-meta"><span>RTS</span><span>24.07.2026.</span></div><h3>Nova generacija oficira spremna za stroj</h3><p>RTS navodi Jelenu Mićić kao najbolju kadetkinju MF VMA.</p><div class="media-link">Otvori prilog →</div></a>
+      <a class="media-card" href="https://www.tanjug.rs/srbija/politika/268530/vucic-urucio-sablje-najboljim-oficirima-vojne-akademije-i-vma/vest" target="_blank" rel="noopener"><div class="media-meta"><span>Tanjug</span><span>25.07.2026.</span></div><h3>Uručene sablje najboljim oficirima</h3><p>Izveštaj sa promocije i dodele oficirskih sablji.</p><div class="media-link">Otvori vest →</div></a>
+      <a class="media-card" href="https://www.politika.rs/sr/clanak/773223/urucene-diplome-i-nagrade-kadetima-vojne-akademije-i-medicinskog-fakulteta-vma" target="_blank" rel="noopener"><div class="media-meta"><span>Politika</span><span>23.07.2026.</span></div><h3>Uručene diplome i nagrade kadetima</h3><p>Vest o dodeli diploma, završnim radovima i nagradama.</p><div class="media-link">Otvori vest →</div></a>
+      <a class="media-card" href="https://www.mod.gov.rs/lat/23473/obavestenje" target="_blank" rel="noopener"><div class="media-meta"><span>Ministarstvo odbrane</span><span>20.07.2026.</span></div><h3>Zvanična najava promocije</h3><p>Zvanična najava svečanosti promocije nove generacije oficira.</p><div class="media-link">Otvori objavu →</div></a>
+    </div>
+  </div>
+</section>
